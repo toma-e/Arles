@@ -9,6 +9,6 @@
 		"gold": 9999,
 		"culture": 9999,
 		"cityStrength": 99,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": ["Destroyed when the city is captured"],
 	}
 ]
